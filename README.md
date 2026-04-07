@@ -55,3 +55,4 @@ output = model.generate(prompt)
 - [Tutorials](https://linktotutorials)  
 
 For more information, visit our [GitHub Page](https://github.com/aitechtrade777/AI-LLM).
+Visit https://chattrading.expo.app/ to go through the website.
