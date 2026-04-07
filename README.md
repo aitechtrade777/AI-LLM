@@ -1,4 +1,4 @@
-# AI-LLM 
+# AI-LLM (chat-trading)
 
 ## Project Overview  
 AI-LLM is a powerful AI framework designed to facilitate the development and deployment of large language models. This project provides a modular structure allowing users to customize and extend functionalities based on their requirements.
